@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on job according to CAD/CAE/CAPP/CAM tech.
 - 📫 How to reach me tel: 89145403228 (rus), tg: @SokolDenis474
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: this is my first time on github
 
 <!---
 2ROWGUY/2ROWGUY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
